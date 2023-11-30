@@ -6,4 +6,4 @@ Players take turns rolling the two dice as many times as they want within each r
 
 But be careful – if you roll a 1, your turn ends and you get zero for that round and your turn ends.
 
-player who has a total larger than 20 wins.
+the player who has a total >= 100 wins.
