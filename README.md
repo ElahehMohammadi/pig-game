@@ -34,3 +34,5 @@ Tips and Strategies:
 . Observe your opponent's strategy: 🕵️‍♀️ Adapt your own strategy 🧠 based on how your opponent is playing. ⛹️‍♀️⛹️‍♂️
 
 Have fun and enjoy the game! 🥳😃
+
+#webdevelopment #javascript #JonasSchmidtmann #learning
