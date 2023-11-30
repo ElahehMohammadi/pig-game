@@ -87,7 +87,7 @@ btnHoldEL.addEventListener('click', function () {
       scores[activePlayer];
     //  check score is >= 100
     // finish the game
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= 100) {
       document.querySelector(`#current--${activePlayer}`).textContent = 0;
       playing = false;
       diceImgEL.classList.add('hidden');
