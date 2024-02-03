@@ -4,7 +4,7 @@ Welcome to the thrilling game of Dice Duel! ✨🎲🎲
 
 In this exciting game of chance and strategy, you and your friend will battle it out to reach the coveted score of 100. 🏆 Brace yourselves for a roller-coaster ride of dice rolls and strategic decisions! 🎢🧠
 
-Game Setup:
+Game Setup :
 
 Each player gets a scorecard to keep track of their points. 📝
 
